@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.login {
+    width: 500px;
+    border: 2px solid steelblue;
+    margin: auto;
+    padding-bottom: 10px;
+    margin-top: 50px;
+    box-shadow: 20px 0 steelblue;
+}
+
+.login h3 {
+    padding: 20px;
+    color: steelblue;
+    font-size: 25px;
+}
+
+.label label {
+    width: 90%;
+    padding: 30px 0 0 20px;
+    height: 30px;
+    letter-spacing: 3px;
+    font-weight: 300;
+    color: gray;
+}
+
+.input input {
+    width: 90%;
+    margin: 20px 0 15px 20px;
+    height: 30px;
+    background-color: lightgray;
+    border: none;
+}
+
+.btn {
+    width: 90%;
+    margin: 20px 0 0 20px;
+    height: 30px;
+    font-size: 15px;
+    color: white;
+    background-color: steelblue;
+    border: none;
+    border-radius: 16px;
+    text-transform: uppercase;
+}
+
+.checkbox {
+    margin-left: 20px;
+    float: left;
+    color: gray;
+}
+
+.a {
+    margin-left: 220px;
+    text-decoration: none;
+    color: steelblue;
+}
+
+.btn a {
+    color: white;
+    text-decoration: none;
+}
